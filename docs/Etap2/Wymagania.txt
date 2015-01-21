@@ -1,0 +1,1 @@
+Celem drugiego etapu projektu by³o stworzenie modelu systemu projektowanego w etapie pierwszym, zgodnego z notacja? Archimate 2.0. W warstwie biznesowej nalezÿa³o przedstawic´ jeden kluczowy i niebanalny proces, wspieraja?cy dzia³anie systemu, zas´ w warstwach aplikacyjnej i technologicznej – wszystkie elementy niezbe?dne do realizacji tego procesu.
